@@ -32,3 +32,8 @@ small year-end (and also year-welcome) project
      ```
    - [\[프로젝트 기획 및 준비작업\] 기술 스택 선정](https://libertegrace.tistory.com/entry/Final-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EC%84%A0%EC%A0%95-Nov-9-2020-%ED%9A%8C%EA%B3%A0)
    - ... others
+
+## 개발 resources
+- https://github.com/Solido/awesome-flutter
+- https://androidexample365.com/tag/jetpack-compose/
+- https://www.udemy.com/course/flutter-bootcamp-with-dart/
